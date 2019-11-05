@@ -1,0 +1,9 @@
+# Copy this file to "params" and fill out the parameters
+## API token or session token
+TOKEN=
+## The numerical ID of the app to move to
+TARGET_APP_ID=
+## Volume to migrate from (optional if the volume is "resin-data")
+FROM_VOLUME=
+## Volume to migrate to (optional if there's only a single volume in the target application)
+TO_VOLUME=
