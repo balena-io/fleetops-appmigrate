@@ -1,0 +1,7 @@
+# Files expected to be modified
+appmigrator.sh
+batch
+params
+
+# Logfiles
+*.log
